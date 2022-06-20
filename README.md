@@ -1,4 +1,4 @@
-# ED_AtividadeFinal
+# ED - Livraria
 Este foi um repositorio criado para armazenar a atividade final da matéria de Estrutura de Dados.
 
 O projeto consiste em um leitor de arquivos .txt extraidos do site [**Gutenberg**](https://www.gutenberg.org/) no qual sao disponibilizados livros diversos.
